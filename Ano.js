@@ -52,7 +52,7 @@ client.on("message", msg => {
 
 
 
-client.on("message" , message => {
+client.on("message" , message => {REKLAM
 
 if(message.channel.type === 'dm') {
 
